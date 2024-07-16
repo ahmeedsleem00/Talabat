@@ -1,0 +1,637 @@
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+F:\Talabat Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\Talabat Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 03\atef eisa - ( APIs ) - Demo 01\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 04\atef eisa - ( APIs ) - Demo 03\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+E:\Back-End\C#\atef eisa - ( APIs ) - Demo 05\Api's Project\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+E:\Back-End\C#\Projects\Api's\Api's Project\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
